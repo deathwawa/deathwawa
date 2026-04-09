@@ -1,92 +1,188 @@
-<div align="center">
+---
+title: deathga
+date: '2020-01-10'
+spoiler: Tabular Readme Template
+categories: ["tabular", "all-profile"]
+githubUsername: 'deathga'
+---
 
-<h1>
-  <a href="https://github.com/deathwawa">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=🚀+欢迎来到我的世界;💻+我是+WAKANDA;🔥+创造+一切+可能" alt="炫酷打字效果" />
-  </a>
-</h1>
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
+  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+</p>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" />
+<p>
+  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+</p>
 
-<a href="https://github.com/deathwawa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deathwawa&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&icon_color=00ffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathwawa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff" />
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/deathga" />
+</p>
+
+<p align="center">
+<br>
+<a href="https://www.facebook.com/smarty.saisumanth"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:tallurisaisumanth77@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
+
+<br>
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+### I am a Systems Engineer Specialist at Infosys
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently learning MERN Stack Development.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2020 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<br>
+
+### Languages and Tools: 
+
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<br>
+<br>
+<br>
+<br>
+
+<!--
+<details>
+  <summary>:zap: Github Stats</summary>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deathga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+</p>
+<br>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true&theme=radical">
+</p>
+</details> -->
+
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.deathga.vercel.app/api?username=deathga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.deathga.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+
+
+
+<!-- stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deathga&show_icons=true&hide_border=true&theme=dark)
+![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true")-->
+
+<!-- repos
+<a href="https://github.com/deathga/Readers-Cabin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathga&repo=Readers-Cabin&theme=dark" />
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deathwawa/deathwawa/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/deathwawa/deathwawa/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/deathwawa/deathwawa/blob/output/github-snake-dark.svg" />
-</picture>
-
-<a href="https://github.com/deathwawa?tab=followers">
-  <img src="https://img.shields.io/github/followers/deathwawa?label=粉丝&style=for-the-badge&logo=github&color=181717&labelColor=00ffff&logoColor=white" alt="GitHub粉丝" />
+<a href="https://github.com/deathga/JPMorgan-Chase-Virtual-Internship">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathga&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=deathwawa&style=for-the-badge&color=00ffff&label=访问量" alt="个人资料访问量" />
-<a href="https://github.com/deathwawa?tab=repositories">
-  <img src="https://img.shields.io/github/stars/deathwawa?label=星标&style=for-the-badge&color=ffd700&labelColor=00ffff" alt="GitHub星标" />
+<a href="https://github.com/deathga/Python-for-Everybody-Specialization">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathga&repo=Python-for-Everybody-Specialization&theme=dark" />
 </a>
+-->
 
-</div>
+<br>
 
----
+### :zap: Recent Github Activity
+  
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#363](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/363) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. 💪 Opened PR [#423](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/423) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+3. ❗️ Opened issue [#172](https://github.com/EddieJaoudeCommunity/support/issues/172) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+<!--END_SECTION:activity-->
 
-## 🌟 关于我
+<br>
 
-```typescript
-const wakanda = {
-  位置: "地球 🌍",
-  当前专注: ["构建酷炫项目", "开源贡献", "技术创新"],
-  编程哲学: "代码不仅要能跑，还要跑得优雅",
-  幽默感: "我调试用console.log，我骄傲 😎"
-};
-```
+### 📊 &nbsp; STATS
 
----
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 1.4 million Lines of Code ✍️**
 
-## ⚡ 技术栈
+
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+**I'm an early 🐤** 
+
+| | | | |
+| --- | --- | --- | --- |
+|🌞 Morning                |65 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
+|🌆 Daytime                |188 commits         |![](https://via.placeholder.com/172x22/000000/000000?text=+)![](https://via.placeholder.com/228x22/b8b8b8/b8b8b8?=text=+)|43.22%|
+|🌃 Evening                |159 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.55%|
+|🌙 Night                  |23 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.29%|
+| | | | |
+
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+📅 **I'm Most Productive on Thursdays** 
+
+| | | | |
+| --- | --- | --- | --- |
+|Monday                   |73 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.9%|
+|Tuesday                  |44 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.38%|
+|Wednesday                |71 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.52%|
+|Thursday                 |128 commits         |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.38%|
+|Friday                   |62 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.81%|
+|Saturday                 |54 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.29%|
+|Sunday                   |93 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.71%|
+| | | | |
+
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+**My 💖 languages Python** 
+
+| | | | |
+| --- | --- | --- | --- |
+|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
+|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
+|JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
+| | | | |
+
+<!--END_SECTION_LANGUAGE:readme-info-->
+
+<br>
 
 <div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--[website]: -->
+[twitter]: https://twitter.com/sumanth_98?s=09
+<!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
+[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
+[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
 
-</div>
 
----
+#### Thank You-🙏🏼
 
-##  活跃度
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deathwawa&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&fire=FF5E19&ring=00FFFF&currStreakLabel=00FFFF" alt="GitHub连续贡献" />
-
-</div>
-
----
-
-## 🎯 成就
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deathwawa&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub成就徽章" />
-
-</div>
-
----
-
-<div align="center">
-
-**"代码如诗，创意无限"** ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=80&section=footer&text=感谢访问&fontSize=25&fontColor=ffffff&animation=twinkling" />
-
-</div>
+⭐️ From [deathga](https://github.com/deathga)
