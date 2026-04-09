@@ -1,14 +1,6 @@
----
-title: deathga
-date: '2020-01-10'
-spoiler: Tabular Readme Template
-categories: ["tabular", "all-profile"]
-githubUsername: 'deathga'
----
-
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm deathga 👋</b></h1>
 </p>
 
 <p>
@@ -21,10 +13,10 @@ githubUsername: 'deathga'
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/smarty.saisumanth"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.facebook.com/smarty.saideathga"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:tallurisaisumanth77@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/tv-sai-deathga-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:tallurisaideathga77@gmail.com?subject=Hola%20deathga"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
@@ -87,15 +79,15 @@ githubUsername: 'deathga'
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.deathga.vercel.app/api?username=deathga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.deathga.vercel.app/api?username=deathga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="deathga's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.deathga.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.deathga.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true&theme=radical" width="37%" alt="deathga's Top Languages">
 
 
 
 <!-- stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deathga&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true")-->
+![deathga's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true")-->
 
 <!-- repos
 <a href="https://github.com/deathga/Readers-Cabin">
@@ -177,10 +169,10 @@ githubUsername: 'deathga'
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
-[twitter]: https://twitter.com/sumanth_98?s=09
+[twitter]: https://twitter.com/deathga_98?s=09
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
+[linkedin]: https://www.linkedin.com/in/tv-sai-deathga-3b7811141/
 
 
 #### Thank You-🙏🏼
