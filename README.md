@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm deathga 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm deathwawa 👋</b></h1>
 </p>
 
 <p>
@@ -8,15 +8,15 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/deathga" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/deathwawa" />
 </p>
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/smarty.saideathga"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.facebook.com/smarty.saideathwawa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/tv-sai-deathga-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:tallurisaideathga77@gmail.com?subject=Hola%20deathga"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/tv-sai-deathwawa-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:tallurisaideathwawa77@gmail.com?subject=Hola%20deathwawa"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
@@ -68,36 +68,36 @@
 <details>
   <summary>:zap: Github Stats</summary>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deathga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deathwawa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
 </p>
 <br>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathwawa&show_icons=true&hide_border=true&theme=radical">
 </p>
 </details> -->
 
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.deathga.vercel.app/api?username=deathga&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="deathga's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.deathwawa.vercel.app/api?username=deathwawa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="deathwawa's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.deathga.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true&theme=radical" width="37%" alt="deathga's Top Languages">
+<img src="https://github-readme-stats.deathwawa.vercel.app/api/top-langs/?username=deathwawa&show_icons=true&hide_border=true&theme=radical" width="37%" alt="deathwawa's Top Languages">
 
 
 
 <!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deathga&show_icons=true&hide_border=true&theme=dark)
-![deathga's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathga&show_icons=true&hide_border=true")-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=deathwawa&show_icons=true&hide_border=true&theme=dark)
+![deathwawa's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathwawa&show_icons=true&hide_border=true")-->
 
 <!-- repos
-<a href="https://github.com/deathga/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathga&repo=Readers-Cabin&theme=dark" />
+<a href="https://github.com/deathwawa/Readers-Cabin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathwawa&repo=Readers-Cabin&theme=dark" />
 </a>
-<a href="https://github.com/deathga/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathga&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
+<a href="https://github.com/deathwawa/JPMorgan-Chase-Virtual-Internship">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathwawa&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
 </a>
-<a href="https://github.com/deathga/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathga&repo=Python-for-Everybody-Specialization&theme=dark" />
+<a href="https://github.com/deathwawa/Python-for-Everybody-Specialization">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=deathwawa&repo=Python-for-Everybody-Specialization&theme=dark" />
 </a>
 -->
 
@@ -169,12 +169,12 @@
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
-[twitter]: https://twitter.com/deathga_98?s=09
+[twitter]: https://twitter.com/deathwawa_98?s=09
 <!--[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg-->
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-deathga-3b7811141/
+[linkedin]: https://www.linkedin.com/in/tv-sai-deathwawa-3b7811141/
 
 
 #### Thank You-🙏🏼
 
-⭐️ From [deathga](https://github.com/deathga)
+⭐️ From [deathwawa](https://github.com/deathwawa)
