@@ -8,11 +8,6 @@
   <h1 align="center"><b>Hello there, I'm deathwawa 👋</b></h1>
 </p>
 
-<!-- ==================== 副标题/座右铭 ==================== -->
-<p>
-  <!-- 程序员名言：Talk is cheap. Show me the code -->
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
 
 <!-- ==================== 社交媒体链接区域（已注释） ==================== -->
 <!-- 以下是社交媒体图标链接，已注释掉可根据需要启用 -->
