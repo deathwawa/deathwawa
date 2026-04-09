@@ -11,8 +11,8 @@
 
 <!-- ==================== 社交媒体链接区域（已注释） ==================== -->
 <!-- 以下是社交媒体图标链接，已注释掉可根据需要启用 -->
-<p align="center">
-<br>
+<!-- <p align="center">
+<br> -->
 <!-- Facebook -->
 <!-- <a href="https://www.facebook.com/smarty.saideathwawa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp; -->
 <!-- Instagram -->
@@ -23,7 +23,7 @@
 <!-- <a href="mailto:tallurisaideathwawa77@gmail.com?subject=Hola%20deathwawa"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp; -->
 <!-- 个人网站 -->
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/badge/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+<!-- </p> -->
 
 <br>
 
@@ -69,10 +69,7 @@
 <img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="Tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<br>
-<br>
-<br>
-<br>
+
 
 <!-- ==================== GitHub统计信息（已注释，可启用） ==================== -->
 <!--
@@ -110,7 +107,7 @@
 </a>
 -->
 
-<br>
+
 
 
 
